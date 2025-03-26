@@ -7,7 +7,8 @@ Victoria Marini 14130 <br>
 <img  src="https://github.com/user-attachments/assets/e3bb4865-0ff4-4725-8f63-70c07ccd6ee9" width="200"> <br>
 Ignacio Serrano 13903 <br>
 <img src="https://github.com/user-attachments/assets/08a7bb2e-c66d-4226-b30f-af6bb1a02561" width="200"> <br>
-Joaquin Casabo 
+Joaquin Casabo 13783
+<img src="https://github.com/user-attachments/assets/f5389ff0-f7e4-4681-8470-24bff76fa2b1" width="200"> <br>
 
 
 
